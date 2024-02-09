@@ -38,6 +38,8 @@ form {
   box-shadow: 0 6px #2E282A;
 }
   
+
+
 .btn a {
     color: white;
   font-family: 'Open Sans', sans-serif;
@@ -57,3 +59,32 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+
+.btn1{
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  background-color: blueviolet;
+  padding: 20px 80px;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 0 6px #2E282A;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 45px;
+  font-weight: 300;
+ 
+}
+
+.btn1 a{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
